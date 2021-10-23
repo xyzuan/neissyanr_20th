@@ -19,9 +19,9 @@ html {
   }
   
   .container div.six {
-    top: 50%;
-    -ms-transform: translateY(-50%);
-    transform: translateY(-50%);
+    top: 45%;
+    -ms-transform: translateY(-45%);
+    transform: translateY(-45%);
     z-index: 1;
   }
   
@@ -37,7 +37,7 @@ html {
     position: absolute;
     left: 0;
     right: 0;
-    top: 50%;
+    top: 45%;
     -ms-transform: translateY(-45%);
     transform: translateY(-45%);
   }
@@ -90,7 +90,7 @@ html {
     right: 10px;
     bottom: 10px;
     color: #fff;
-    background-color: rgb(21, 161, 237);
+    background-color: rgb(173, 117, 131);
     padding: 0px 10px;
     border-radius: 18px;
   }
@@ -99,9 +99,9 @@ html {
     font-size: 2rem;
     position: absolute;
     color: #856262;
-    top: 50%;
-    -ms-transform: translateY(-50%);
-    transform: translateY(-50%);
+    top: 45%;
+    -ms-transform: translateY(-45%);
+    transform: translateY(-45%);
   }
   
   .idea-3 strong {
@@ -136,8 +136,8 @@ html {
   
   .six img {
     display: inline-block;
-    max-width: 50%;
-    max-height: 50%;
+    max-width: 75%;
+    max-height: 75%;
   }
   
   .six .hat {
