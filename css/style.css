@@ -315,3 +315,7 @@ html {
       font-weight: lighter;
     }
   }
+
+  .song {
+    visibility: hidden;
+  }
