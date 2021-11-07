@@ -19,9 +19,9 @@ html {
   }
   
   .container div.six {
-    top: 45%;
-    -ms-transform: translateY(-45%);
-    transform: translateY(-45%);
+    top: 40%;
+    -ms-transform: translateY(-40%);
+    transform: translateY(-40%);
     z-index: 1;
   }
   
@@ -37,9 +37,9 @@ html {
     position: absolute;
     left: 0;
     right: 0;
-    top: 45%;
-    -ms-transform: translateY(-45%);
-    transform: translateY(-45%);
+    top: 40%;
+    -ms-transform: translateY(-40%);
+    transform: translateY(-40%);
   }
   
   .one {
@@ -99,9 +99,9 @@ html {
     font-size: 2rem;
     position: absolute;
     color: #856262;
-    top: 45%;
-    -ms-transform: translateY(-45%);
-    transform: translateY(-45%);
+    top: 40%;
+    -ms-transform: translateY(-40%);
+    transform: translateY(-40%);
   }
   
   .idea-3 strong {
