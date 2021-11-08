@@ -3,7 +3,7 @@ html {
   }
   
   body {
-    background-color: #FFD0D0;
+    background-color: #F9C7C7;
     margin: 18px;
     font-family: 'Poppins', sans-serif;
   }
@@ -44,7 +44,7 @@ html {
   
   .one {
     font-size: 3.5rem;
-    color: #856262;
+    color: #434141;
     text-align: center;
     line-height: 1.0;
   }
@@ -62,8 +62,10 @@ html {
   }
   
   .three {
-    color: #856262;
-    font-size: 3rem;
+    font-size: 3.5rem;
+    color: #434141;
+    text-align: center;
+    line-height: 1.2;
   }
   
   .four .text-box {
@@ -90,7 +92,7 @@ html {
     right: 10px;
     bottom: 10px;
     color: #fff;
-    background-color: rgb(173, 117, 131);
+    background-color: #F29898;
     padding: 0px 10px;
     border-radius: 18px;
   }
@@ -98,7 +100,7 @@ html {
   .five p {
     font-size: 2rem;
     position: absolute;
-    color: #856262;
+    color: #434141;
     top: 40%;
     -ms-transform: translateY(-40%);
     transform: translateY(-40%);
@@ -111,18 +113,19 @@ html {
   }
   
   .five .idea-5 {
-    color: #856262;
+    color: #434141;
     font-size: 4rem;
   }
   
   .five .idea-4 {
-    color: #856262;
+    color: #434141;
     font-size: 4rem;
   }
 
   .idea-5 span,
   .idea-6 span,
   .wish-hbd span {
+    color: #434141;
     display: inline-block;
   }
   
