@@ -170,7 +170,7 @@ const animationTimeline = () => {
     )
     .staggerFromTo(
       ".polaroid img",
-      8.0,
+      10.0,
       {
         opacity: 0.9,
         y: 1400,
