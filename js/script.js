@@ -170,7 +170,7 @@ const animationTimeline = () => {
     )
     .staggerFromTo(
       ".polaroid img",
-      6.0,
+      8.0,
       {
         opacity: 0.9,
         y: 1400,
@@ -179,7 +179,7 @@ const animationTimeline = () => {
         opacity: 1,
         y: -1000,
       },
-      0.2
+      0.5
     )
     .from(
       ".lydia-dp",
